@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanh\\Desktop\\fuck-u\\C# Maxi programa\\nivel 3\\Unidad 3- bootstrap\\Portfolio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE49B853-4311-4FC5-9750-176A20D8ABA4}|Portfolio\\Portfolio.csproj|C:\\Users\\juanh\\Desktop\\fuck-u\\C# Maxi programa\\nivel 3\\Unidad 3- bootstrap\\Portfolio\\portfolio\\acerca.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EE49B853-4311-4FC5-9750-176A20D8ABA4}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\acerca.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE49B853-4311-4FC5-9750-176A20D8ABA4}|Portfolio\\Portfolio.csproj|c:\\users\\juanh\\desktop\\fuck-u\\c# maxi programa\\nivel 3\\unidad 3- bootstrap\\portfolio\\portfolio\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EE49B853-4311-4FC5-9750-176A20D8ABA4}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE49B853-4311-4FC5-9750-176A20D8ABA4}|Portfolio\\Portfolio.csproj|C:\\Users\\juanh\\Desktop\\fuck-u\\C# Maxi programa\\nivel 3\\Unidad 3- bootstrap\\Portfolio\\portfolio\\mimaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{EE49B853-4311-4FC5-9750-176A20D8ABA4}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\mimaster.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE49B853-4311-4FC5-9750-176A20D8ABA4}|Portfolio\\Portfolio.csproj|C:\\Users\\juanh\\Desktop\\fuck-u\\C# Maxi programa\\nivel 3\\Unidad 3- bootstrap\\Portfolio\\portfolio\\contacto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EE49B853-4311-4FC5-9750-176A20D8ABA4}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\contacto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE49B853-4311-4FC5-9750-176A20D8ABA4}|Portfolio\\Portfolio.csproj|C:\\Users\\juanh\\Desktop\\fuck-u\\C# Maxi programa\\nivel 3\\Unidad 3- bootstrap\\Portfolio\\portfolio\\contacto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE49B853-4311-4FC5-9750-176A20D8ABA4}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\contacto.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE49B853-4311-4FC5-9750-176A20D8ABA4}|Portfolio\\Portfolio.csproj|C:\\Users\\juanh\\Desktop\\fuck-u\\C# Maxi programa\\nivel 3\\Unidad 3- bootstrap\\Portfolio\\portfolio\\aptitudes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EE49B853-4311-4FC5-9750-176A20D8ABA4}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\aptitudes.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 132,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Acerca.aspx",
+              "DocumentMoniker": "C:\\Users\\juanh\\Desktop\\fuck-u\\C# Maxi programa\\nivel 3\\Unidad 3- bootstrap\\Portfolio\\Portfolio\\Acerca.aspx",
+              "RelativeDocumentMoniker": "Portfolio\\Acerca.aspx",
+              "ToolTip": "C:\\Users\\juanh\\Desktop\\fuck-u\\C# Maxi programa\\nivel 3\\Unidad 3- bootstrap\\Portfolio\\Portfolio\\Acerca.aspx",
+              "RelativeToolTip": "Portfolio\\Acerca.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-17T13:07:02.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contacto.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\juanh\\Desktop\\fuck-u\\C# Maxi programa\\nivel 3\\Unidad 3- bootstrap\\Portfolio\\Portfolio\\Contacto.aspx.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Contacto.aspx.cs",
+              "ToolTip": "C:\\Users\\juanh\\Desktop\\fuck-u\\C# Maxi programa\\nivel 3\\Unidad 3- bootstrap\\Portfolio\\Portfolio\\Contacto.aspx.cs",
+              "RelativeToolTip": "Portfolio\\Contacto.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAqwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T00:07:55.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contacto.aspx",
+              "DocumentMoniker": "C:\\Users\\juanh\\Desktop\\fuck-u\\C# Maxi programa\\nivel 3\\Unidad 3- bootstrap\\Portfolio\\Portfolio\\Contacto.aspx",
+              "RelativeDocumentMoniker": "Portfolio\\Contacto.aspx",
+              "ToolTip": "C:\\Users\\juanh\\Desktop\\fuck-u\\C# Maxi programa\\nivel 3\\Unidad 3- bootstrap\\Portfolio\\Portfolio\\Contacto.aspx",
+              "RelativeToolTip": "Portfolio\\Contacto.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-13T18:48:30.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Aptitudes.aspx",
+              "DocumentMoniker": "C:\\Users\\juanh\\Desktop\\fuck-u\\C# Maxi programa\\nivel 3\\Unidad 3- bootstrap\\Portfolio\\Portfolio\\Aptitudes.aspx",
+              "RelativeDocumentMoniker": "Portfolio\\Aptitudes.aspx",
+              "ToolTip": "C:\\Users\\juanh\\Desktop\\fuck-u\\C# Maxi programa\\nivel 3\\Unidad 3- bootstrap\\Portfolio\\Portfolio\\Aptitudes.aspx",
+              "RelativeToolTip": "Portfolio\\Aptitudes.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-13T18:47:29.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\juanh\\Desktop\\fuck-u\\C# Maxi programa\\nivel 3\\Unidad 3- bootstrap\\Portfolio\\Portfolio\\Default.aspx",
+              "RelativeDocumentMoniker": "Portfolio\\Default.aspx",
+              "ToolTip": "C:\\Users\\juanh\\Desktop\\fuck-u\\C# Maxi programa\\nivel 3\\Unidad 3- bootstrap\\Portfolio\\Portfolio\\Default.aspx",
+              "RelativeToolTip": "Portfolio\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-13T18:34:00.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MiMaster.Master",
+              "DocumentMoniker": "C:\\Users\\juanh\\Desktop\\fuck-u\\C# Maxi programa\\nivel 3\\Unidad 3- bootstrap\\Portfolio\\Portfolio\\MiMaster.Master",
+              "RelativeDocumentMoniker": "Portfolio\\MiMaster.Master",
+              "ToolTip": "C:\\Users\\juanh\\Desktop\\fuck-u\\C# Maxi programa\\nivel 3\\Unidad 3- bootstrap\\Portfolio\\Portfolio\\MiMaster.Master",
+              "RelativeToolTip": "Portfolio\\MiMaster.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-13T14:32:01.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
